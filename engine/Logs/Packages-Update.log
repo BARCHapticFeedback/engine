@@ -1,0 +1,38 @@
+
+=== Mon Mar 27 12:03:26 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.5.7 to 1.15.17
+  com.unity.render-pipelines.universal from version 10.5.1 to 12.1.7
+
+=== Mon Apr 24 13:44:43 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.1
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.17 to 2.0.0
+  com.unity.ide.rider from version 3.0.15 to 3.0.18
+  com.unity.ide.visualstudio from version 2.0.16 to 2.0.17
+  com.unity.render-pipelines.universal from version 12.1.7 to 14.0.6
+  com.unity.timeline from version 1.6.4 to 1.7.2
+  com.unity.xr.oculus from version 3.0.2 to 3.2.2
+  com.unity.xr.openxr from version 1.4.2 to 1.6.0
+
+=== Thu Apr 27 11:56:58 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 2.0.0 to 2.0.3
+  com.unity.toolchain.linux-x86_64 from version 2.0.2 to 2.0.4
+  com.unity.toolchain.win-x86_64-linux-x86_64 from version 0.1.20-preview to 2.0.4
+  com.unity.xr.management from version 4.2.1 to 4.3.3
+  com.unity.xr.oculus from version 3.2.2 to 3.3.0
+  com.unity.xr.openxr from version 1.6.0 to 1.7.0
